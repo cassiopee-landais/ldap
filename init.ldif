@@ -1,0 +1,35 @@
+dn: ou=employer, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: employer
+description: branche employer
+
+dn: ou=cat A, ou=employer, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: cat A
+description: branche A
+
+dn: ou=cat B, ou=employer, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: cat B
+description: branche B
+
+dn: ou=cat C, ou=employer, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: cat C
+description: branche C
+
+dn: ou=cat D, ou=employer, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: cat D
+description: branche D
+
+dn: ou=client, dc=ldap, dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: client
+description: branche client 

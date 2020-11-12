@@ -1,0 +1,159 @@
+dn: uid=dorian, ou=cat D, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: dorian
+cn: dorian matias
+sn: dorian
+givenName: dorian
+uidNumber: 1100
+gidNumber: 1111
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=yael, ou=cat D, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: yael
+cn: yael ami
+sn: yael
+givenName: yael
+uidNumber: 1101
+gidNumber: 1111
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=michelle, ou=cat D, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: michelle
+cn: michelle groleis
+sn: michelle
+givenName: michelle
+uidNumber: 1102
+gidNumber: 1111
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=abdel, ou=cat D, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: abdel
+cn: abdel fed
+sn: abdel
+givenName: abdel
+uidNumber: 1103
+gidNumber: 1111
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=amelie, ou=cat A, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: amelie
+cn: amelie lotte
+sn: amelie
+givenName: amelie
+uidNumber: 1104
+gidNumber: 1114
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=arthur, ou=cat A, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: arthur
+cn: arthur
+sn: arthur
+givenName: arthur
+uidNumber: 1105
+gidNumber: 1114
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=bob, ou=cat B, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: bob
+cn: bob voulet
+sn: bob
+givenName: bob
+uidNumber: 1106
+gidNumber: 1113
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=bruno, ou=cat B, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: bruno
+cn: bruno desange
+sn: bruno
+givenName: bruno
+uidNumber: 1106
+gidNumber: 1113
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=celine, ou=cat C, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: celine
+cn: celine stoner
+sn: celine
+givenName: celine
+uidNumber: 1107
+gidNumber: 1112
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=cyril, ou=cat C, ou=employer, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: cyril
+cn: cyril potet
+sn: cyril
+givenName: cyril
+uidNumber: 1108
+gidNumber: 1112
+homeDirectory: /
+loginShell: /bin/bash
+userPassword: user

@@ -1,0 +1,31 @@
+﻿dn: uid=fed, ou=client, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: fed
+cn: fed karim
+sn: fed
+givenName: fed
+uidNumber: 1108
+gidNumber: 1113
+homeDirectory: /home
+loginShell: /bin/bash
+userPassword: user
+
+dn: uid=cesarine, ou=client, dc=ldap, dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: cesarine
+cn: cesarine cordonnier
+sn: cesarine
+givenName: cesarine
+uidNumber: 1109
+gidNumber: 1113
+homeDirectory: /home
+loginShell: /bin/bash
+userPassword: user
